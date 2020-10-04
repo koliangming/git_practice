@@ -1,25 +1,28 @@
 {
   "name": "myapp",
   "version": "1.0.0",
+  "description": "",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/koliangming/git_practice.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/koliangming/git_practice/issues"
-  },
-  "homepage": "https://github.com/koliangming/git_practice#readme",
-  "description": ""
+  }
+  // },
+  // "devDependencies": {},
+  // "repository": {
+  //   "type": "git",
+  //   "url": "git+https://github.com/koliangming/git_practice.git"
+  // },
+  // "keywords": [],
+  // "bugs": {
+  //   "url": "https://github.com/koliangming/git_practice/issues"
+  // },
+  // "homepage": "https://github.com/koliangming/git_practice#readme",
+  // "description": ""
 }
